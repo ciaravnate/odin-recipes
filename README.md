@@ -1,2 +1,2 @@
 # odin-recipes
-mama mia
+Website for recipes for The Odin Project
